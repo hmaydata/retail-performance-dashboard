@@ -26,5 +26,10 @@ This project presents an interactive Excel dashboard analyzing retail performanc
 - Data Visualization
 - KPI Dashboard Design
 
+## Download File
+
+📥 **Download Excel Dashboard:**  
+[Click here to download](https://github.com/hmaydata/retail-performance-dashboard/raw/main/retail-performance-dashboard.xlsx)
+
 ## File
-- 👉`retail-performance-dashboard.xlsx`
+- `retail-performance-dashboard.xlsx`
