@@ -4,7 +4,7 @@
 This project presents an interactive Excel dashboard analyzing retail performance across sales, profit, and discount strategies. The goal was to identify inefficiencies and provide actionable insights into pricing and product performance.
 
 ## Dashboard Preview
-![Dashboard](retail-dashboard.png)
+![Dashboard](retail-dashboard.jpg)
 
 ## Key Features
 - KPI dashboard (Sales, Profit, Margin, Orders, Discount)
